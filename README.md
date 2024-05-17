@@ -1,4 +1,4 @@
-# AdityaRaj
+# Aditya Raj
 👋 Hey there! Welcome to my GitHub profile!
 
 🎓 I'm a passionate college student with a knack for software development and a love for learning. 💻 I specialize in object-oriented programming and have hands-on experience in crafting robust solutions using Java.
